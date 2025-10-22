@@ -4,9 +4,9 @@ import pandas as pd
 import numpy as np
 
 dados = {
-    'BubbleSort': [0.211315, 2.013895, 157.490795, 24374.50649, 0],  # último valor 1M não fornecido
-    'InsertionSort': [0.115, 1.551505, 44.65499, 9533.107555, 0], # último valor 1M não fornecido
-    'SelectionSort': [0.133785, 1.54079, 39.37054, 4022.630075, 0], # último valor 1M não fornecido
+    'BubbleSort': [0.211315, 2.013895, 157.490795, 24374.50649, 0],  # último valor 1M não realizado
+    'InsertionSort': [0.115, 1.551505, 44.65499, 9533.107555, 0], # último valor 1M não realizado
+    'SelectionSort': [0.133785, 1.54079, 39.37054, 4022.630075, 0], # último valor 1M não realizado
     'ShellSort': [0.07924, 0.299865, 2.12166, 31.806175, 0638.11782],
     'HeapSort': [0.092355, 0.680135, 2.195415, 24.12827, 501.12974],
     'MergeSort': [0.10781, 4.6425, 5.23549, 19.85419, 209.245865],
